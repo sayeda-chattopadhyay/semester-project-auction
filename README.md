@@ -47,7 +47,7 @@ registered users can use their credit toto place bids
   <tbody>
     <tr>
       <th>Gantt Chart</th>
-      <td><a href="">Gantt Chart Image</a></td>
+      <td><a href="/images/Semester_Project_2.png">Gantt Chart Image</a></td>
     </tr>
     <tr>
       <th>Design Prototype</th>
