@@ -63,7 +63,7 @@ registered users can use their credit toto place bids
     </tr>
     <tr>
       <th>Repository</th>
-      <td><a href="">Project Repository</a></td>
+      <td><a href="https://github.com/sayeda-chattopadhyay/semester-project-auction">Project Repository</a></td>
     </tr>
     <tr>
       <th>Hosted Demo</th>
