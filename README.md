@@ -51,15 +51,15 @@ registered users can use their credit toto place bids
     </tr>
     <tr>
       <th>Design Prototype</th>
-      <td><a href="">Desktop Prototype</a></td> 
+      <td><a href="https://www.figma.com/proto/SzkgtJ3iV1BIqEuosMLo1Y/Auction_website?page-id=0%3A1&node-id=1%3A2&viewport=1364%2C893%2C0.38&scaling=contain&starting-point-node-id=1%3A2">Desktop Prototype</a></td> 
     </tr>
     <tr>
       <th>Style Guide</th>
-      <td><a href="">Style Guide</a></td>
+      <td><a href="https://www.figma.com/file/SzkgtJ3iV1BIqEuosMLo1Y/Auction_website?node-id=32%3A1115&t=0k0mNw36frJA3XEQ-1">Style Guide</a></td>
     </tr>
     <tr>
       <th>Trello Board</th>
-      <td><a href="">Project Board Link</a></td>
+      <td><a href="https://trello.com/invite/b/b53Lfgmm/ATTI6272be085fb21157e4485955ac5efc53D4171034/bidabhi">Project Board Link</a></td>
     </tr>
     <tr>
       <th>Repository</th>
@@ -67,7 +67,7 @@ registered users can use their credit toto place bids
     </tr>
     <tr>
       <th>Hosted Demo</th>
-      <td><a href="">Live Site</a></td>
+      <td><a href="https://poetic-faloodeh-2fc2da.netlify.app">Live Site</a></td>
     </tr>
   </tbody>
 </table>
