@@ -55,7 +55,7 @@ registered users can use their credit toto place bids
     </tr>
     <tr>
       <th>Style Guide</th>
-      <td><a href="https://www.figma.com/file/SzkgtJ3iV1BIqEuosMLo1Y/Auction_website?node-id=32%3A1115&t=0k0mNw36frJA3XEQ-1">Style Guide</a></td>
+      <td><a href="/images/style.png">Style Guide</a></td>
     </tr>
     <tr>
       <th>Trello Board</th>
