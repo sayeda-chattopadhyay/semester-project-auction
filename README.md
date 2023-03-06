@@ -1,7 +1,7 @@
-# BidAbhi-Auction
+# BidAbhi
 
 
-# Bidabhi auction (Semester-Project-2)
+# Semester-Project-2
 
 ![Homepage Preview](/images/Logo.png)
 
