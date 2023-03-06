@@ -51,7 +51,7 @@ registered users can use their credit toto place bids
     </tr>
     <tr>
       <th>Design Prototype</th>
-      <td><a href="https://www.figma.com/proto/SzkgtJ3iV1BIqEuosMLo1Y/Auction_website?page-id=0%3A1&node-id=1%3A2&viewport=1364%2C893%2C0.38&scaling=contain&starting-point-node-id=1%3A2">Desktop Prototype</a></td> 
+      <td><a href="hhttps://www.figma.com/proto/SzkgtJ3iV1BIqEuosMLo1Y/Auction_website?page-id=0%3A1&node-id=1%3A2&viewport=1364%2C893%2C0.38&scaling=scale-down-width&starting-point-node-id=1%3A2">Desktop Prototype</a></td> 
     </tr>
     <tr>
       <th>Style Guide</th>
