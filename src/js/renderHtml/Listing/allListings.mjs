@@ -53,7 +53,7 @@ export function createAllListingsHTML(listings) {
 
     listingsContainer.innerHTML += `<div class="col-12 col-lg-4 col-md-6 col-sm-12 mt-4 ">
                                         <div class="card h-100 border-0 p-2 listing-card">
-                                            <a href="/singleListing.html?id=${id}"
+                                            <a href="/singlelisting.html?id=${id}"
                                                 ><img
                                                 src="${imgMedia}"
                                                 class="card-img-top c-image" 
