@@ -8,9 +8,6 @@ import { load } from "../storage/index.mjs";
  */
 
 
-
-
-
 export function userLoggedIn() {
   const loginBtn = document.getElementById("loginBtn");
   const profileThumbnail = document.getElementById("profileThumbnail");

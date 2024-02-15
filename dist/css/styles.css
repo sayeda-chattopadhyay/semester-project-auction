@@ -5,6 +5,11 @@
   width: 3rem;
 }
 
+
+
+
+
+
 .navbar {
   padding: 0 !important;
 }
@@ -35,7 +40,7 @@
 
 .overview {
   height: 180px;
-  background-color: #fbcd25;
+  background-color: #f5e8e8ac;
 }
 
 .nav-link {

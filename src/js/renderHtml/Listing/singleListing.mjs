@@ -119,7 +119,7 @@ export function createSingleListingHTML(listing) {
                                         </div>
                                     </div>
                                     <hr/>
-                                    <div class="col-md-4 p-4 bg-info">
+                                    <div class="col-md-4 p-4 bg-light">
                                     <p class="card-text">Bid amount :<strong> ${amount}</strong></p> 
                                     </div>
                                 </div>
